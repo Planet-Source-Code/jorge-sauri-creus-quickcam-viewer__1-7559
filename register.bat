@@ -1,0 +1,1 @@
+C:\WINDOWS\SYSTEM\REGSVR32.exe QCVideoX.ocx
